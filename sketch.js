@@ -18,25 +18,6 @@ function draw() {
     // draw here!
 
 
-    // point(300, 300)
-    // point(200, 300)
-    // point(100, 300)
-    // point(250, 280)
-    // point(150, 280)
-    //
-    // line(1, 240, 640, 240)
-    // line(100, 400, 300, 400)
-    // line (100, 200, 100, 400)
-    //
-    // rect(400, 100, 100, 100)
-    //
-    // ellipse(400, 100, 20, 20)
-    //
-    // strokeWeight (5)
-    // ellipse(100, 400, 20, 20)
-    //
-
-
 
 //big curvy line
 {
@@ -1944,9 +1925,10 @@ endShape()
         ellipse(783, 314, 5, 5)
         ellipse(775, 320, 5, 5)
 }
-  stroke(255)
+
 //right wave
 {
+    stroke(255)
     strokeWeight(1)
     noFill()
     beginShape()
